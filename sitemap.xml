@@ -3,15 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Cardinal-1.github.io/categories/</loc>
+    <loc>wangpengyu.vip/</loc>
+    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Cardinal-1.github.io/</loc>
+    <loc>wangpengyu.vip/about/</loc>
+    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Cardinal-1.github.io/tags/</loc>
+    <loc>wangpengyu.vip/tags/c&#43;&#43;/</loc>
+  </url>
+  
+  <url>
+    <loc>wangpengyu.vip/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>wangpengyu.vip/posts/first/</loc>
+  </url>
+  
+  <url>
+    <loc>wangpengyu.vip/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>wangpengyu.vip/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>wangpengyu.vip/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>wangpengyu.vip/search/</loc>
   </url>
   
 </urlset>
