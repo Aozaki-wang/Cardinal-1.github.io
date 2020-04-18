@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Cardinal&#39;s Blog</title>
-    <link>wangpengyu.vip/tags/hugo/</link>
+    <link>Cardinal-1.github.io/tags/hugo/</link>
     <description>Recent content in hugo on Cardinal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 07 Nov 1999 12:36:34 +0800</lastBuildDate>
     
-	<atom:link href="wangpengyu.vip/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="Cardinal-1.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Begin</title>
-      <link>wangpengyu.vip/posts/1/</link>
+      <link>Cardinal-1.github.io/posts/1/</link>
       <pubDate>Sun, 07 Nov 1999 12:36:34 +0800</pubDate>
       
-      <guid>wangpengyu.vip/posts/1/</guid>
+      <guid>Cardinal-1.github.io/posts/1/</guid>
       <description>Kirito and Asuna</description>
     </item>
     

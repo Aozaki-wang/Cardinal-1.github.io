@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cardinal&#39;s Blog</title>
-    <link>wangpengyu.vip/</link>
+    <link>Cardinal-1.github.io/</link>
     <description>Recent content on Cardinal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 20 Apr 2019 23:10:44 +0800</lastBuildDate>
     
-	<atom:link href="wangpengyu.vip/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="Cardinal-1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Begin</title>
-      <link>wangpengyu.vip/posts/1/</link>
+      <link>Cardinal-1.github.io/posts/1/</link>
       <pubDate>Sun, 07 Nov 1999 12:36:34 +0800</pubDate>
       
-      <guid>wangpengyu.vip/posts/1/</guid>
+      <guid>Cardinal-1.github.io/posts/1/</guid>
       <description>Kirito and Asuna</description>
     </item>
     
     <item>
       <title>B</title>
-      <link>wangpengyu.vip/posts/b/</link>
+      <link>Cardinal-1.github.io/posts/b/</link>
       <pubDate>Sat, 18 Apr 2020 14:33:34 +0800</pubDate>
       
-      <guid>wangpengyu.vip/posts/b/</guid>
+      <guid>Cardinal-1.github.io/posts/b/</guid>
       <description>this is a demo!</description>
     </item>
     
     <item>
       <title>Links</title>
-      <link>wangpengyu.vip/links/</link>
+      <link>Cardinal-1.github.io/links/</link>
       <pubDate>Sat, 20 Apr 2019 23:10:44 +0800</pubDate>
       
-      <guid>wangpengyu.vip/links/</guid>
+      <guid>Cardinal-1.github.io/links/</guid>
       <description></description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>wangpengyu.vip/archives/</link>
+      <link>Cardinal-1.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>wangpengyu.vip/archives/</guid>
+      <guid>Cardinal-1.github.io/archives/</guid>
       <description>&amp;hellip;</description>
     </item>
     
     <item>
       <title>搜索</title>
-      <link>wangpengyu.vip/search/</link>
+      <link>Cardinal-1.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>wangpengyu.vip/search/</guid>
+      <guid>Cardinal-1.github.io/search/</guid>
       <description></description>
     </item>
     
