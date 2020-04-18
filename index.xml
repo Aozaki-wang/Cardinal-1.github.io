@@ -6,7 +6,7 @@
     <description>Recent content on Cardinal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Apr 2020 14:33:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 23:10:44 +0800</lastBuildDate>
     
 	<atom:link href="wangpengyu.vip/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,10 +22,10 @@
     
     <item>
       <title>B</title>
-      <link>wangpengyu.vip/b/</link>
+      <link>wangpengyu.vip/posts/b/</link>
       <pubDate>Sat, 18 Apr 2020 14:33:34 +0800</pubDate>
       
-      <guid>wangpengyu.vip/b/</guid>
+      <guid>wangpengyu.vip/posts/b/</guid>
       <description>this is a demo!</description>
     </item>
     

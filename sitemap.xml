@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>wangpengyu.vip/b/</loc>
+    <loc>wangpengyu.vip/posts/b/</loc>
     <lastmod>2020-04-18T14:33:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>wangpengyu.vip/</loc>
+    <loc>wangpengyu.vip/posts/</loc>
     <lastmod>2020-04-18T14:33:34+08:00</lastmod>
   </url>
   
@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>wangpengyu.vip/</loc>
+    <lastmod>2019-04-20T23:10:44+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>wangpengyu.vip/links/</loc>
     <lastmod>2019-04-20T23:10:44+08:00</lastmod>
   </url>
@@ -48,23 +53,12 @@
   </url>
   
   <url>
-    <loc>wangpengyu.vip/posts/</loc>
-    <lastmod>1999-11-07T12:36:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>wangpengyu.vip/series/</loc>
-    <lastmod>1999-11-07T12:36:34+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>wangpengyu.vip/categories/%E4%BD%9C%E8%80%85/</loc>
     <lastmod>1999-11-07T12:36:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>wangpengyu.vip/series/%E5%8A%A8%E6%BC%AB/</loc>
-    <lastmod>1999-11-07T12:36:34+08:00</lastmod>
+    <loc>wangpengyu.vip/series/</loc>
   </url>
   
   <url>
