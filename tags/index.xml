@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Saber&#39;s Blog</title>
+    <title>Tags on Cardinal&#39;s Blog</title>
     <link>wangpengyu.vip/tags/</link>
-    <description>Recent content in Tags on Saber&#39;s Blog</description>
+    <description>Recent content in Tags on Cardinal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 07 Nov 1999 12:36:34 +0800</lastBuildDate>
     
 	<atom:link href="wangpengyu.vip/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>C&#43;&#43;</title>
-      <link>wangpengyu.vip/tags/c&#43;&#43;/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>hugo</title>
+      <link>wangpengyu.vip/tags/hugo/</link>
+      <pubDate>Sun, 07 Nov 1999 12:36:34 +0800</pubDate>
       
-      <guid>wangpengyu.vip/tags/c&#43;&#43;/</guid>
+      <guid>wangpengyu.vip/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>wangpengyu.vip/tags/web/</link>
+      <pubDate>Sun, 07 Nov 1999 12:36:34 +0800</pubDate>
+      
+      <guid>wangpengyu.vip/tags/web/</guid>
       <description></description>
     </item>
     
