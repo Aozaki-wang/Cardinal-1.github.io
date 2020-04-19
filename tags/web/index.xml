@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web on Cardinal&#39;s Blog</title>
-    <link>Cardinal-1.github.io/tags/web/</link>
+    <link>/tags/web/</link>
     <description>Recent content in web on Cardinal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 18 Apr 2020 14:33:34 +0800</lastBuildDate>
     
-	<atom:link href="Cardinal-1.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Begin</title>
-      <link>Cardinal-1.github.io/posts/1/</link>
+      <link>/posts/1/</link>
       <pubDate>Sun, 07 Nov 1999 12:36:34 +0800</pubDate>
       
-      <guid>Cardinal-1.github.io/posts/1/</guid>
+      <guid>/posts/1/</guid>
       <description>Kirito and Asuna</description>
     </item>
     
     <item>
       <title>B</title>
-      <link>Cardinal-1.github.io/posts/b/</link>
+      <link>/posts/b/</link>
       <pubDate>Sat, 18 Apr 2020 14:33:34 +0800</pubDate>
       
-      <guid>Cardinal-1.github.io/posts/b/</guid>
+      <guid>/posts/b/</guid>
       <description>this is a demo!</description>
     </item>
     

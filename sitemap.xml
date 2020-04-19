@@ -3,70 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>Cardinal-1.github.io/posts/1/</loc>
+    <loc>/posts/1/</loc>
     <lastmod>1999-11-07T12:36:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/posts/b/</loc>
+    <loc>/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-04-20T23:10:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/b/</loc>
     <lastmod>2020-04-18T14:33:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-04-18T14:33:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-04-18T14:33:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/tags/web/</loc>
+    <loc>/tags/web/</loc>
     <lastmod>2020-04-18T14:33:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-04-18T12:08:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/</loc>
+    <loc>/links/</loc>
     <lastmod>2019-04-20T23:10:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/links/</loc>
-    <lastmod>2019-04-20T23:10:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>Cardinal-1.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>1999-11-07T12:36:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>1999-11-07T12:36:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/categories/%E4%BD%9C%E8%80%85/</loc>
+    <loc>/categories/%E4%BD%9C%E8%80%85/</loc>
     <lastmod>1999-11-07T12:36:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/series/</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/archives/</loc>
+    <loc>/archives/</loc>
   </url>
   
   <url>
-    <loc>Cardinal-1.github.io/search/</loc>
+    <loc>/search/</loc>
   </url>
   
 </urlset>
